@@ -7,7 +7,7 @@
 
 // Definir una función que se ejecutará cuando la página se cargue
 function mostrarMensaje() {
-    alert("¡Hola, mundo!"); // Muestra un mensaje en una ventana emergente
+    alert("¡Que hubo mor!"); // Muestra un mensaje en una ventana emergente
 }
 
 // Asociar la función al evento de carga de la página
